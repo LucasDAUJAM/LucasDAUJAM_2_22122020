@@ -1,0 +1,37 @@
+@font-face  {
+
+    font-family : 'raleway';
+    src: url(font/Raleway-VariableFont_wght.ttf)
+}
+
+
+body  {
+    
+    font-family: 'raleway',Arial;
+}
+
+a:link  {
+
+    color: #a8a8a8;
+    text-decoration: none;
+}
+
+
+a:visited  {
+
+    color: #a8a8a8;
+    text-decoration: none;
+}
+
+
+footer  {
+
+    background-color: #F2F2F2;
+}
+
+
+#inscrire  {
+
+    color: #0065FC;
+
+}
